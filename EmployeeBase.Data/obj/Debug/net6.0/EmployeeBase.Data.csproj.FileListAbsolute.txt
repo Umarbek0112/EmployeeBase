@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\bin\Debug\net6.0\EmployeeBase.Data.deps.json
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\bin\Debug\net6.0\EmployeeBase.Data.runtimeconfig.json
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\bin\Debug\net6.0\EmployeeBase.Data.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\bin\Debug\net6.0\EmployeeBase.Data.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\bin\Debug\net6.0\EmployeeBase.Domain.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\bin\Debug\net6.0\EmployeeBase.Domain.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.AssemblyInfo.cs
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.csproj.CopyComplete
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\refint\EmployeeBase.Data.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\EmployeeBase.Data.genruntimeconfig.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Data\obj\Debug\net6.0\ref\EmployeeBase.Data.dll

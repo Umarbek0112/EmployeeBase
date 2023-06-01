@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Service.deps.json
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Service.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Service.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.AssemblyInfo.cs
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\refint\EmployeeBase.Service.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\ref\EmployeeBase.Service.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Data.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Domain.dll
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Data.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\bin\Debug\net6.0\EmployeeBase.Domain.pdb
+C:\Users\i7TechStore\Desktop\EmployeeBase.Api\EmployeeBase.Service\obj\Debug\net6.0\EmployeeBase.Service.csproj.CopyComplete
